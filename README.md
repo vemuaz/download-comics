@@ -3,11 +3,11 @@ El programa tiene soportado una gran cantidad de páginas para que puedas descar
 En un inicio el programa se desarrolló por un pedido especial y por eso fue de paga, y a medida que las personas que solicitaron el programa ya no lo usan, y para que no se pierda, decidí darlo gratis.
 
 ## Donaciones
-<a href='https://ko-fi.com/H2H0372QD' target="_blank"><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/vemuaz' target="_blank"><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Descarga del programa
 Para descargar el programa, debes de ingresar al siguiente enlace.
-### <a href='https://vemuaz.com/descarga-comics/' target='_blank'>Descargar del programa </a>
+### <a href='https://vemuaz.com/descarga-comics/' target='_blank'>Descarga del programa </a>
 
 
 
