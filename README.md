@@ -29,9 +29,11 @@ El programa cuenta con una interfaz para que sea más fácil su uso.
 ## Paginas soportadas.
 La version v1.04 cuenta con lo siguiente.
 * 341 Total de Páginas Soportadas
-* 10	Paginas actualizadas
-* 54	Paginas agregadas
-* 47	Paginas eliminadas(cerraron la página, se cambió la temática, suspendieron el dominio)
+*  10	Paginas actualizadas
+*  54	Paginas agregadas
+*  47	Paginas eliminadas(cerraron la página, se cambió la temática, suspendieron el dominio)
 
-## Nota Final
-No se comparte el código fuente del programa, solo un archivo rar.
+## Pedido de páginas para agregar
+De preferencia que la página no tenga cloudflare.
+El pedido de página lo pueden realizar por nuestro foro o por este lugar.
+<a href='https://vemuaz.com/forum/forum/peticion-agregar-sitio/' target='_blank'>Pedido para agregar páginas </a>
