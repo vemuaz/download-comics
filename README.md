@@ -7,7 +7,7 @@ En un inicio el programa se desarrolló por un pedido especial y por eso fue de 
 
 ## Descarga del programa
 Para descargar el programa, debes de ingresar al siguiente enlace.
-### <a href='https://vemuaz.com/descarga-comics/' target='_blank'>Descarga del programa </a>
+### <a href='https://github.com/vemuaz/download-comics/releases' target='_blank'>Descarga del programa </a>
 
 
 
